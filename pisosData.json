@@ -44,7 +44,7 @@
       {
             "ID": "CH9",
             "Welock": 1,
-            "SONOFF": 0,
+            "SONOFF": 1,
             "Portal": 0
       },
       {
@@ -68,7 +68,7 @@
       {
             "ID": "CH13",
             "Welock": 1,
-            "SONOFF": 0,
+            "SONOFF": 1,
             "Portal": 0
       },
       {
