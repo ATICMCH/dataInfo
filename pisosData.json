@@ -1,4 +1,11 @@
 [
+       {
+            "ID": "Aravaca1",
+            "Welock": 1,
+            "SONOFF": 0,
+            "Portal": 0,
+            "PTest": 0
+      },
       {
             "ID": "Azcas6",
             "Welock": 0,
@@ -43,7 +50,7 @@
       },
       {
             "ID": "CH9",
-            "Welock": 0,
+            "Welock": 1,
             "SONOFF": 0,
             "Portal": 0,
             "PTest": 0
@@ -71,7 +78,7 @@
       },
       {
             "ID": "CH13",
-            "Welock": 0,
+            "Welock": 1,
             "SONOFF": 0,
             "Portal": 0,
             "PTest": 0
