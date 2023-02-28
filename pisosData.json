@@ -126,17 +126,108 @@
             "Dev": 1
       },
       {
-            "ID": "Oficina",
-            "Welock": 1,
-            "SONOFF": 1,
-            "Portal": 1,
-            "Dev": 0
-      },
-      {
             "ID": "PH2",
             "Welock": 1,
             "SONOFF": 0,
             "Portal": 0,
             "Dev": 0
-      }
+      },
+      {
+	     "ID": "Oficina",
+            "Welock": 1,
+            "SONOFF": 1,
+            "Portal": 1,
+            "Dev": 0,
+            "id": 2,
+            "pais": "España",
+            "ciudad": "Madrid",
+            "codigo_postal": "28900",
+            "direccion": "Calle General Arando",
+            "nro_edificio": "7",
+            "nro_piso": "LOCAL BAJO",
+            "id_dispositivo_ref": "Oficina",
+            "ubicacion_mapa": null,
+            "observaciones": "Piso Oficina",
+            "estado": 1,
+            "fecha_creacion": "2023-02-09 13:33:19",
+            "fecha_ultimo_cambio": "2023-02-09 13:33:19",
+            "idusuario": 1,
+            "dispositivos": [
+                {
+                    "id": 3,
+                    "type": "lock",
+                    "codigo": "21471477",
+                    "nombre": "WeLockGE4CK"
+                },
+                {
+                    "id": 4,
+                    "type": "sonoff",
+                    "codigo": "S0002",
+                    "nombre": "SONOFF 002"
+                },
+                {
+                    "id": 5,
+                    "type": "arduino",
+                    "codigo": "ARD0001",
+                    "nombre": "ARDUINO 001"
+                }
+            ]
+        },
+        {
+	     "ID": "Prueba200",
+            "Welock": 1,
+            "SONOFF": 1,
+            "Portal": 0,
+            "Dev": 0,
+            "id": 1,
+            "pais": "España",
+            "ciudad": "Madrid",
+            "codigo_postal": "28900",
+            "direccion": "Avenida Juan Carlos I",
+            "nro_edificio": "63",
+            "nro_piso": "2C",
+            "id_dispositivo_ref": "Prueba200",
+            "ubicacion_mapa": null,
+            "observaciones": "Prueba de insert",
+            "estado": 1,
+            "fecha_creacion": "2023-02-09 13:33:19",
+            "fecha_ultimo_cambio": "2023-02-09 13:33:19",
+            "idusuario": 1,
+            "dispositivos": [
+                {
+                    "id": 1,
+                    "type": "lock",
+                    "codigo": "21471618",
+                    "nombre": "WeLockAWPOR"
+                },
+                {
+                    "id": 2,
+                    "type": "sonoff",
+                    "codigo": "S0001",
+                    "nombre": "SONOFF 001"
+                }
+            ]
+        },
+        {
+	     "ID": "R0025",
+            "Welock": 0,
+            "SONOFF": 0,
+            "Portal": 0,
+            "Dev": 0,
+            "id": 3,
+            "pais": "España",
+            "ciudad": "Madrid",
+            "codigo_postal": "28900",
+            "direccion": "Avenida Juan Carlos I",
+            "nro_edificio": "63",
+            "nro_piso": "2C",
+            "id_dispositivo_ref": "R0025",
+            "ubicacion_mapa": null,
+            "observaciones": "Prueba de insert",
+            "estado": 1,
+            "fecha_creacion": "2023-02-24 09:13:44",
+            "fecha_ultimo_cambio": "2023-02-24 09:13:44",
+            "idusuario": 1,
+            "dispositivos": []
+        }
 ]
